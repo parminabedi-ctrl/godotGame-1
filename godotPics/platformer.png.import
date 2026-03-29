@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://chx21kj0l6dbg"
-path="res://.godot/imported/pixil-frame-0 (2).png-3518ea07d4b7b07323f6a64175fb6f0f.ctex"
+uid="uid://c4iedic5wwysm"
+path="res://.godot/imported/platformer.png-6758cbc56c24ebca25924943fb9d67d0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://pixil-frame-0 (2).png"
-dest_files=["res://.godot/imported/pixil-frame-0 (2).png-3518ea07d4b7b07323f6a64175fb6f0f.ctex"]
+source_file="res://godotPics/platformer.png"
+dest_files=["res://.godot/imported/platformer.png-6758cbc56c24ebca25924943fb9d67d0.ctex"]
 
 [params]
 
